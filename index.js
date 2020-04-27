@@ -9,10 +9,10 @@ const repo = require('./lib/repo');
 const cmdr = require('commander');
 const { description, version } = require('./package.json');
 
-/*cmdr
+cmdr
  .description(description);
  .version(version, '-v, - version');
- .parse(process.argv);*/
+ .parse(process.argv);
 
 clear();
 
