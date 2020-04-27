@@ -10,9 +10,9 @@ const cmdr = require('commander');
 const { description, version } = require('./package.json');
 
 cmdr
- .description(description);
- .version(version, '-v, - version');
- .parse(process.argv);
+ .description(description)
+ .version(version, '-v, - version')
+ .parse(process.argv)
 
 clear();
 
