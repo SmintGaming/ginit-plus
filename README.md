@@ -25,7 +25,7 @@ OR
 3. Install the module globally with `npm install -g` from within the project directory
 4. Run `ginit <repo-name> <repo description>`
 
-##Licence
+## Licence
 
 MIT License
 
