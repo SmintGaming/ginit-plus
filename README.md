@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/SmintGaming/ginit-plus.svg?branch=master)](https://travis-ci.com/SmintGaming/ginit-plus)
 # ginit-plus
-'git init' on more steriods
+'git init' on more steriods 
+[![Build Status](https://travis-ci.com/SmintGaming/ginit-plus.svg?branch=master)](https://travis-ci.com/SmintGaming/ginit-plus)
 ## About 
 
 Ginit-Plus Is 'git init' but on more steriods, it sets up everything for a git repository
