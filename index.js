@@ -3,17 +3,16 @@
 const chalk = require('chalk');
 const clear = require('clear');
 const figlet = require('figlet');
-
 const files = require('./lib/files');
 const github = require('./lib/github');
 const repo = require('./lib/repo');
-const program = require('commander');
+const cmdr = require('commander');
 const { description, version } = require('./package.json');
 
-program
+/*cmdr
  .description(description);
  .version(version, '-v, - version');
- .parse(process.argv);
+ .parse(process.argv);*/
 
 clear();
 
