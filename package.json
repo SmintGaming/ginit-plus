@@ -1,6 +1,6 @@
 {
   "name": "ginit-plus",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "'git init' on more steroids",
   "main": "index.js",
   "bin": {
