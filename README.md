@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/SmintGaming/ginit-plus.svg?branch=master)](https://travis-ci.com/SmintGaming/ginit-plus)
 [![Known Vulnerabilities](https://snyk.io/test/npm/ginit-plus/badge.svg)](https://snyk.io/test/npm/ginit-plus)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # ginit-plus
 'git init' on more steriods 
 ## About 
