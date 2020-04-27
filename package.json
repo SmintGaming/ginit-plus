@@ -4,10 +4,10 @@
   "description": "'git init' on more steroids",
   "main": "index.js",
   "bin": {
-    "ginit+": "./index.js"
+    "ginit+": "node index.js"
   },
   "scripts": {
-    "test": "npm install && npm i -g ginit-plus && sudo ./index.js"
+    "test": "npm install && npm i -g ginit-plus && sudo node index.js"
   },
   "repository": {
     "type": "git",
