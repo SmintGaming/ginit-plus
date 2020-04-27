@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/SmintGaming/ginit-plus.svg?branch=master)](https://travis-ci.com/SmintGaming/ginit-plus)
 # ginit-plus
 'git init' on more steriods
 ## About 
