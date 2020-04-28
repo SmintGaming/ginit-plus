@@ -15,10 +15,9 @@ Ginit-Plus Is 'git init' but on more steriods, it sets up everything for a git r
 * [GitHub account](https://github.com/)
 
 ## Installation Steps
+
 1.Run `npm i -g ginit-plus`
-
 2.Run `npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch`
-
 3.Run `ginit`
 
 OR
