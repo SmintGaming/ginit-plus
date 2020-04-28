@@ -5,7 +5,7 @@
 'git init' on more steriods 
 ## About 
 
-Ginit-Plus Is 'git init' but on more steriods, it sets up everything for a git repository
+Ginit-Plus Is 'git init' but on more steriods, it sets up everything for a github repository
 
 
 ## Requirements
