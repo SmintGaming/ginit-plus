@@ -7,7 +7,7 @@
     "ginit+": "node index.js"
   },
   "scripts": {
-    "test": "npm install && node index.js && npm i -g ginit && ginit"
+    "test": "npm install && node index.js && npm i -g ginit-plus && ginit-plus"
   },
   "repository": {
     "type": "git",
