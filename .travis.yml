@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - 12
 before_install:
-  - npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch commander ginit-plus
+  - npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch commander
