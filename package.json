@@ -32,7 +32,7 @@
     "inquirer": "^7.0.3",
     "lodash": "^4.17.15",
     "minimist": "^1.2.3",
-    "simple-git": "^1.129.0",
+    "simple-git": "^1.132.0",
     "touch": "^3.1.0",
     "snyk": "^1.316.1"
   },
