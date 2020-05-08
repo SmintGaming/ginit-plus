@@ -9,9 +9,12 @@ const github = require('./lib/github');
 const repo = require('./lib/repo');
 
 clear();
+console.clear();
+clear();
+console.clear();
 
 console.log(
-  chalk.yellow(figlet.textSync('Ginit+', { font: 'Bloody', horizontalLayout: 'full'}) ));
+  chalk.yellow(figlet.textSync('Ginit-Plus', { font: '3D-ASCII', horizontalLayout: 'full'}) ));
 
 if (files.directoryExists('.git')) {
   console.log(chalk.red('Already a Git repository!'));

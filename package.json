@@ -4,6 +4,7 @@
   "description": "'git init' on more steroids",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "npm install && node index.js",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
