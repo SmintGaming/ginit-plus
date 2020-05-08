@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/*jshint esversion: 8 */
 
 const chalk = require('chalk');
 const clear = require('clear');
@@ -6,18 +7,11 @@ const figlet = require('figlet');
 const files = require('./lib/files');
 const github = require('./lib/github');
 const repo = require('./lib/repo');
-const cmdr = require('commander');
-const { description, version } = require('./package.json');
-
-cmdr
- .description(description)
- .version(version, '-v, - version')
- .parse(process.argv)
 
 clear();
 
 console.log(
-  chalk.yellow(figlet.textSync('Ginit+', { horizontalLayout: 'full' }) ));
+  chalk.yellow(figlet.textSync('Ginit+', { font: 'Bloody', horizontalLayout: 'full'}) ));
 
 if (files.directoryExists('.git')) {
   console.log(chalk.red('Already a Git repository!'));
