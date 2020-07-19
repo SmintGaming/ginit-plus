@@ -20,7 +20,7 @@
   "author": "Smint",
   "license": "ISC",
   "dependencies": {
-    "@octokit/auth-basic": "^1.4.2",
+    "@octokit/auth-basic": "^1.4.5",
     "@octokit/rest": "^16.43.1",
     "chalk": "^3.0.0",
     "clear": "^0.1.0",
